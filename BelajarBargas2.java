@@ -2,7 +2,7 @@ public class BelajarBargas2 {
     public static void main(String[] args) {
         System.out.println("\nProgram Penghitungan Berat Badan (Java8)");
         
-        // Menggunakan Tipe Data "double" untuk pecahan dan nama variable "berat"
+        // Penggunaan pada Tipe Data "Double" atau pecahan dan nama variable "berat"
         double berat;
         // Menentukan isi variable
         berat = 40.2;
