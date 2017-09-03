@@ -2,14 +2,14 @@ public class BelajarBargas3 {
     public static void main(String[] args) {
         System.out.println("\nProgram Menghitung Luas dan Keliling Persegi Panjang (Java8)");
         
-        // Menggunakan tipe data "int" atau integer
+        // Digunakan untuk nilai integer/numerik/angka Pada tipe data "int" atau integer
         int panjang,lebar,luas,keliling;
         
-        // Menentukan isi variable panjang dan lebar
+        // Menentukan isi variable pada panjang dan lebar
         panjang = 10;
         lebar = 15;
         
-        // Melakukan penghitungan luas dan keliling
+        // Melakukan penjumlahan luas dan keliling
         luas = panjang * lebar;
         keliling = 2 * (panjang+lebar);
         
